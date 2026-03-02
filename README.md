@@ -13,8 +13,10 @@ A Claude Code skill for uncompromising UI/UX design consulting.
 
 ## 安装
 
-```bash
-claude skill install joeseesun/qiaomu-design-advisor
+在 Claude Code 中输入：
+
+```
+帮我安装这个skill：https://github.com/joeseesun/qiaomu-design-advisor
 ```
 
 ## 触发词
